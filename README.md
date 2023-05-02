@@ -1,5 +1,5 @@
 # frame-extraction
-
+https://drive.google.com/file/d/1_OtZktBQcTUMlRXa4bnCG-QA-Gf7jEzO/view?usp=share_link       ( go here for folder because i am not able to upload here it is showing large file size)
 This is an Android application written in Kotlin that extracts frames from a video file and displays them in a RecyclerView. The application uses a custom decoder to extract frames from the video and saves them as image files. The frames are then displayed in a RecyclerView using an adapter.
 
 The application first requests permissions to read from external storage, as it needs to access the video file. The user can then select a video file from their gallery using the device's default file picker. Once a video file is selected, the application starts extracting frames from the video using a custom decoder. The extracted frames are then saved as image files in the app's external file directory. After all the frames are extracted, the application displays them in a RecyclerView using an adapter.
